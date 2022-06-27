@@ -2,7 +2,7 @@
 -----------------------------------------
 
 -----------------------------------------
-In this project we solve Travelling Salesman Problem in java, you can learn more https://en.wikipedia.org/wiki/Travelling_salesman_problem
+In this project we solve Travelling Salesman Problem in java, you can learn more https://en.wikipedia.org/wiki/Travelling_salesman_problem .
 We solve this problem with five algorithms:
 Arbitrary Insertion Algorithm,
 Cheapest Insertion Algorithm,
